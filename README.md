@@ -5,7 +5,7 @@
 - 📫 How to reach me 
     
 - Connect with me here:
-- GitHub :  https://github.com/ds-rakesh
+
 
 
 <!---
