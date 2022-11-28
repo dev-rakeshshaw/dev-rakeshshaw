@@ -6,7 +6,6 @@
     
 - Connect with me here:
 - GitHub :  https://github.com/ds-rakesh
-- Kaggle : https://www.kaggle.com/rakeshshaw
 
 
 <!---
