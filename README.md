@@ -1,5 +1,4 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ds-rakesh)
-![Profile View Counter](https://komarev.com/ghpvc/?username=dsrakesh)
 ![](https://komarev.com/ghpvc/?username=ds-rakesh)
 <img src="https://img.shields.io/github/stars/ds-rakesh?label=Stars" alt="stars">
 
