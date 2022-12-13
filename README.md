@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Shaw</h1>
 
-<h3 align="center">A Passionate Coder from India</h3>
+<h3 align="center">A Simple Experimental Coder from Milkyway</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p>
 
