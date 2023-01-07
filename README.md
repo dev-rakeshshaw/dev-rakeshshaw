@@ -11,7 +11,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
-![welcome](https://giphy.com/embed/xUPGGDNsLvqsBOhuU0)
+![welcome](https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b76116e62f629309ad9443a1336e46ff43072a733b1d3&rid=giphy.gif&ct=g)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak"/>
 
 <!---
