@@ -11,10 +11,10 @@
 <p float="left" align="middle">
   <img align="center" src="./welcome-gif.gif" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="300" height="600" />
   <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" width="300" height="600" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
 </p>
 
 <!---
