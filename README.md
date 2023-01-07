@@ -9,13 +9,12 @@
 <h3 align="center">Helping communities via open-source. </h3>
 
 <p float="left" align="middle">
+  <img align="center" src="./welcome-gif.gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
-  ![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
 </p>
 
- 
-
+ ![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p>
 
 
