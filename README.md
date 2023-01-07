@@ -21,3 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
