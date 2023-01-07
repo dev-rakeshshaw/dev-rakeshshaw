@@ -8,7 +8,7 @@
 
 <h3 align="center">Helping communities via open-source. </h3>
 
-<p float="left">
+<p float="left" align="middle">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
 </p>
