@@ -8,7 +8,8 @@
 
 <h3 align="center">Helping communities via open-source. </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=dark&layout=compact" />
 
@@ -19,9 +20,9 @@ dev-rakesh/dev-rakesh is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
+
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p>  |  ![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
 
