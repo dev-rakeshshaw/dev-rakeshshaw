@@ -9,7 +9,7 @@
 <h3 align="center">Helping communities via open-source. </h3>
 
 <p float="left" align="middle">
-  <img align="center" src="./welcome-gif.gif" />
+  <img align="center" src="./welcome-gif.gif" width="500"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="500" />
   <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" width="500" />
