@@ -18,5 +18,6 @@
 dev-rakesh/dev-rakesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/88075256/211156035-f3d7e219-2995-4f71-8bb3-b3d285f005d3.png)
+
+![welcome-gif](https://user-images.githubusercontent.com/88075256/211156175-9295906c-c5dc-44a9-b4cd-00a56e89d63a.gif)
 
