@@ -5,9 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Shaw</h1>
 
-
-<h3 align="center">Helping communities via open-source. </h3>
-
 <p float="left" align="middle">
   <img align="center" src="./welcome-gif.gif" width="500"/>
   <br>
