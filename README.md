@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/stars/dev-rakeshshaw?label=Stars" alt="stars">
 
 
-<h1 align="center">Hi 👋, I'm Rakesh Shaw</h1>
+<h1 align="center">Hi 👋, I'm Rakesh Shaw. </h1>
 
 <p float="left" align="middle">
   <img align="center" src="./welcome-gif.gif" width="500"/>
