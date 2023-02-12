@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500" />
 </p>
 
-<!---
+<!--- hello
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en" alt="dev-rakeshshaw" /></p>
 --->
 
