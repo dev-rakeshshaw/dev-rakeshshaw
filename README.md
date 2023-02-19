@@ -10,10 +10,10 @@
     <table>
     <tr>
         <td width="25%">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" height="300"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" height="250"/>
         </td>
         <td width="25%">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" height="250"/>
         </td>
     </tr>
     <tr>
