@@ -31,25 +31,21 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">My GitHub Stats</h2>
   <div align="center">
     <table>
-      <tr>
-        <th>Company</th>
-        <th>Contact</th>
-      </tr>
-      <tr>
+    <tr>
         <td width="25%">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="500"/>
         </td>
         <td width="25%">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" width="500"/>
         </td>
-        <td width="25%">
+    </tr>
+    <tr>
+        <td width="50%" colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500"/>
         </td>
-        <td width="25%">
-<a href="http://www.github.com/dev-rakeshshaw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-rakeshshaw&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
-        </td>
-     </tr>
+    </tr>
     </table>
+<a href="http://www.github.com/dev-rakeshshaw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-rakeshshaw&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
   </div>
 
     
