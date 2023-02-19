@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakesh Shaw. </h1>
-<h2 align="center" style="color:blue;">Contributing to Open Source </h2>
+<h3 align="center">Contributing to Open Source </h3>
 
 <p float="left" align="middle">
   
