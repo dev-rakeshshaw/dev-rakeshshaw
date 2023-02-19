@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
         <td width="25%">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" width="500"/>
         </td>
+        <br>
         <td width="25%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500"/>
         </td>
