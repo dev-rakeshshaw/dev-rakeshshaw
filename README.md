@@ -8,8 +8,8 @@
 
 <p float="left" align="middle">
   
-  <img align="left" src="./welcome-gif.gif" width="200" height="270"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="200"/>
+  <img align="left" src="./welcome-gif.gif" width="300" height="270"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="300"/>
   
   <br><br>
   
