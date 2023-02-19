@@ -11,7 +11,7 @@
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="492" height="265" />
 
- <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" width="500" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" width="492" height="270" />
   
   
 </p>
