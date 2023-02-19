@@ -13,9 +13,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500" height="300"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="500" height="300" />
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=dev-rakeshshaw&show_icons=true&locale=en&theme=tokyonight" alt="dev-rakeshshaw" width="500" height="300" />
-  <br>
+
   <a href="http://www.github.com/dev-rakeshshaw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-rakeshshaw&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
   
 </p>
