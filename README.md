@@ -8,7 +8,7 @@
 
 <p float="left" align="middle">
   
-  <img align="center" src="./welcome-gif.gif" width="500" height="500"/>
+  <img align="center" src="./welcome-gif.gif" width="500" height="300"/>
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="300"/>
   <br><br>
