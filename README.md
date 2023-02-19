@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Shaw. <br> Contributing to Open Source.</h1>
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center"><u>My GitHub Stats</u></h2>
   <div align="center">
     <table>
     <tr>
