@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Shaw. </h1>
 <h2 align="center">Contributing in Open Source. </h2>
 <p float="left" align="middle">
-  <img align="center" src="./welcome-gif.gif" width="500" hieght="250"/>
+  <img align="center" src="./welcome-gif.gif" width="500" height="250"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakeshshaw&theme=tokyonight" alt="mystreak" width="500" />
   <br><br>
