@@ -19,7 +19,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2">
+        <td align="center" colspan="2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500"/>
         </td>
     </tr>
