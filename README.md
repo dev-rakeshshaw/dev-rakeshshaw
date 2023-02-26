@@ -17,8 +17,11 @@
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="2">
+        <td width="25%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakeshshaw&count_private=true&langs_count=7&theme=tokyonight&layout=compact" width="500"/>
+        </td>
+      <td width="25%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-rakeshshaw&theme=react&langs_count=5&layout=compact" />
         </td>
     </tr>
     </table>
