@@ -24,7 +24,7 @@
     </table>
     <a href="http://www.github.com/dev-rakeshshaw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-rakeshshaw&theme=merko&bg_color=1A1B27&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-rakeshshaw&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 
     
